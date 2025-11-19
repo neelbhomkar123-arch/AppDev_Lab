@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "338315525302",
+    "project_id": "dictionary-app-6d041",
+    "storage_bucket": "dictionary-app-6d041.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338315525302:android:f7a3047e506221526b7a17",
+        "android_client_info": {
+          "package_name": "com.example.dictionary_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIpqgkFSuvTKy44GS2Z0LNpEMLMIOPPlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338315525302:android:4b67800ed16e1fd56b7a17",
+        "android_client_info": {
+          "package_name": "com.example.my_dictionary_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIpqgkFSuvTKy44GS2Z0LNpEMLMIOPPlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
